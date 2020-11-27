@@ -8,7 +8,7 @@ trait CreatesApplication
 {
     /**
      * Creates the application.
-     *
+     *a
      * @return \Illuminate\Foundation\Application
      */
     public function createApplication()

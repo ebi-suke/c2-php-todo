@@ -9,7 +9,7 @@ class Todo extends Model
     const STATUS_NOT_YET = 0;
 
     const STATUS = [
-        '未着手',
+        '未着',
         '作業中',
         '完了',
     ];
